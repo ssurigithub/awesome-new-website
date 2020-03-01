@@ -11,5 +11,5 @@ This was added using HTTPS auth
 
 Wouldn't you like to know!
 
-## adding some content here before pulling to local repo
+## adding some content here before pulling to local repository
 
